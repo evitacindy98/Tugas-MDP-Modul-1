@@ -1,0 +1,13 @@
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\bin\Debug\netstandard2.0\Kelompok29.deps.json
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\bin\Debug\netstandard2.0\Kelompok29.dll
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\bin\Debug\netstandard2.0\Kelompok29.pdb
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.csprojAssemblyReference.cache
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.csproj.CoreCompileInputs.cache
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.AssemblyInfoInputs.cache
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.AssemblyInfo.cs
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.dll
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.pdb
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.App.xaml.g.cs
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.LoginPage.xaml.g.cs
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.MainPage.xaml.g.cs
+C:\Users\Evita Cindy\source\repos\Kelompok29\Kelompok29\Kelompok29\obj\Debug\netstandard2.0\Kelompok29.SignUpPage.xaml.g.cs
